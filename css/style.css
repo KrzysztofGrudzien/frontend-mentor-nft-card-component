@@ -50,6 +50,10 @@ ul {
     font-weight: normal;
 }
 
+a {
+    text-decoration: none;
+}
+
 p {
     font-size: 1.8rem;
 }
@@ -77,13 +81,13 @@ main {
     background-color: var(--color-card-bg);
     display: flex;
     flex-direction: column;
-    padding: 2.6rem;
+    padding: 2.2rem;
     width: 350px;
 }
 
 .card__img {
     border-radius: var(--radius-8);
-    width: 302px;
+    width: 304px;
 }
 
 .card__img-wrapper {
@@ -108,7 +112,7 @@ main {
     background-color: var(--color-secondary);
     border-radius: var(--radius-8);
     cursor: pointer;
-    height: 298px;
+    height: 304px;
     left: 0;
     position: absolute;
     opacity: 0;
