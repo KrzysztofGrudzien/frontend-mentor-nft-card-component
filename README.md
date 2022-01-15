@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KrzysztofGrudzien/frontend-mentor-nft-card-component)
-- Live Site URL: [Add live site URL here](https://krzysztofgrudzien.github.io/frontend-mentor-nft-card-component/)
+- Solution URL: [https://github.com/KrzysztofGrudzien/frontend-mentor-nft-card-component](https://github.com/KrzysztofGrudzien/frontend-mentor-nft-card-component)
+- Live Site URL: [https://krzysztofgrudzien.github.io/frontend-mentor-nft-card-component/](https://krzysztofgrudzien.github.io/frontend-mentor-nft-card-component/)
 
 ## My process
 
